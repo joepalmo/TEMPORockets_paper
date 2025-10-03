@@ -1,0 +1,915 @@
+Processing 2023-08-19 00:00:00
+no time
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2023-09-02 14:25:00
+No data
+Error: ROI has no finite data.
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2023-09-10 12:47:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=8.36, distance=0.21 degrees, enhancement=143216733146502304.00
+Processing 2023-09-27 21:10:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.9390707239994285
+No plume detected
+Processing 2023-10-06 16:10:33
+Error opening dataset: [Errno -101] NetCDF: HDF error: b'/home/jpalmo/fs09/Datasets/TEMPO/L3/NO2/TEMPO_NO2_L3_V03_20231006T155642Z_S008.nc'
+No data for 1 hours after launch
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2023-10-06 18:06:00
+Error opening dataset: [Errno -101] NetCDF: HDF error: b'/home/jpalmo/fs09/Datasets/TEMPO/L3/NO2/TEMPO_NO2_L3_V03_20231006T175642Z_S010.nc'
+No data for 1 hours after launch
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2023-10-13 14:19:43
+Error: Ambiguous scene: No plume candidates after gates and filtering.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.581517229583751
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.158352238363008
+No plume detected
+Processing 2023-10-13 23:01:10
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2023-10-14 16:00:00
+Detected plume: with SNR=5.56, distance=0.25 degrees, enhancement=52333569085377792.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.32800507724776
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2023-10-14 16:35:00
+Detected plume: with SNR=5.56, distance=0.25 degrees, enhancement=52333569085377792.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.32800507724776
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2023-10-14 17:10:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.32800507724776
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2023-10-30 23:20:30
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2023-11-02 15:44:40
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2023-11-11 18:49:00
+Detected plume: with SNR=6.57, distance=0.03 degrees, enhancement=315092843840120832.00
+No data
+No data for 3 hours after launch
+Processing 2023-11-12 21:08:00
+No data
+No data
+No data
+No plume detected
+Processing 2023-11-18 13:02:53
+No data
+Detected plume: with SNR=9.69, distance=0.18 degrees, enhancement=884747000789529344.00
+Detected plume: with SNR=6.77, distance=0.18 degrees, enhancement=60115970241157512.00
+Processing 2023-12-01 18:19:00
+Detected plume: with SNR=5.53, distance=0.25 degrees, enhancement=67694382752487392.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.338358700627117
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.858170624063079
+Processing 2023-12-11 14:38:00
+No data
+No data
+No data
+No plume detected
+Processing 2023-12-11 14:48:00
+No data
+No data
+No data
+No plume detected
+Processing 2023-12-19 16:42:35
+Error: No plumes detected within the bounding box.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2023-12-22 17:32:30
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.226711926213853
+No plume detected
+Processing 2023-12-24 13:11:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-01-07 22:35:40
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-01-18 21:49:11
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+No data
+No plume detected
+Processing 2024-02-14 22:30:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-02-15 21:34:30
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.482148609364443
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.067481483127822
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-02-25 22:06:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-02-29 15:30:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.37839376922183
+Detected plume: with SNR=7.41, distance=0.16 degrees, enhancement=91973511333007184.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2024-03-04 22:05:00
+Detected plume: with SNR=6.02, distance=0.16 degrees, enhancement=64621533034960560.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.462489739493428
+Processing 2024-03-04 23:56:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-03-10 23:05:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-03-14 13:25:00
+Detected plume: with SNR=8.44, distance=0.14 degrees, enhancement=665761781276634368.00
+False positive, too many nans
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2024-03-21 20:55:09
+Detected plume: with SNR=6.76, distance=0.12 degrees, enhancement=115370852469532912.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+Processing 2024-03-25 23:42:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-03-28 00:00:00
+no time
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2024-03-28 00:00:00
+no time
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2024-03-28 00:00:00
+no time
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2024-03-30 21:52:00
+Detected plume: with SNR=7.49, distance=0.07 degrees, enhancement=139287035490897584.00
+No data
+No data for 3 hours after launch
+Processing 2024-04-07 23:16:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-04-08 18:40:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.631888937023916
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-04-08 19:25:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-04-08 20:28:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+No plume detected
+Processing 2024-04-09 16:53:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=7.82, distance=0.25 degrees, enhancement=177558898759040192.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2024-04-11 14:25:00
+Detected plume: with SNR=6.78, distance=0.04 degrees, enhancement=208708275426719616.00
+False positive, too many nans
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.068488148676433
+No plume detected
+Processing 2024-04-17 21:26:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.060157920430144
+No data
+No plume detected
+Processing 2024-04-17 22:13:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-04-17 22:14:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-04-18 22:40:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+No data
+No plume detected
+Processing 2024-04-20 00:00:00
+no time
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.659331575818997
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.999723390253791
+No data for 3 hours after launch
+No plume detected
+Processing 2024-04-28 00:34:00
+no time
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-04-28 22:08:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-05-02 18:36:00
+Detected plume: with SNR=6.04, distance=0.06 degrees, enhancement=345756529869435584.00
+Detected plume: with SNR=5.71, distance=0.16 degrees, enhancement=80523914466563136.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.07631263277413
+Processing 2024-05-06 18:14:00
+Detected plume: with SNR=7.00, distance=0.13 degrees, enhancement=104677704542717552.00
+Detected plume: with SNR=6.34, distance=0.08 degrees, enhancement=57784287101447560.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.3131613179199695
+Processing 2024-05-08 18:42:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.18788122184815
+Detected plume: with SNR=7.34, distance=0.06 degrees, enhancement=119850945068883040.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.398674079970432
+Processing 2024-05-13 00:53:00
+no time
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-05-14 18:39:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.7839507033303335
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.256553627082918
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-05-18 00:32:00
+no time
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-05-19 14:35:18
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-05-25 00:00:00
+no time
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-05-28 14:24:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=5.53, distance=0.17 degrees, enhancement=62948734112241952.00
+False positive, too many nans
+No data for 3 hours after launch
+No plume detected
+Processing 2024-05-28 22:20:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.917878937311082
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.236786396431323
+No plume detected
+Processing 2024-06-05 14:52:15
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.405574599950691
+Detected plume: with SNR=6.11, distance=0.15 degrees, enhancement=95117732944263248.00
+Detected plume: with SNR=7.94, distance=0.24 degrees, enhancement=96854968921947360.00
+Processing 2024-06-06 12:50:00
+No data
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=20.09, distance=0.11 degrees, enhancement=391840833254181248.00
+False positive, too many nans
+No plume detected
+Processing 2024-06-08 01:56:00
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2024-06-08 12:58:00
+No data
+Error: ROI has no finite data.
+Error: ROI has no finite data.
+No plume detected
+Processing 2024-06-08 15:26:30
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.339225981511067
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=6.43, distance=0.17 degrees, enhancement=54657629809840792.00
+Processing 2024-06-12 00:00:00
+no time
+No data
+No data
+No data
+No plume detected
+Processing 2024-06-20 10:30:00
+Error: No plumes detected within the bounding box.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-06-20 21:35:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.424312932547982
+No data
+No plume detected
+Processing 2024-06-23 17:15:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.8777076950009017
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.365268578494032
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.925969210788004
+No plume detected
+Processing 2024-06-25 21:26:00
+Detected plume: with SNR=6.87, distance=0.05 degrees, enhancement=169391296082956096.00
+False positive, too many nans
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+No plume detected
+Processing 2024-06-27 11:14:00
+Detected plume: with SNR=7.46, distance=0.26 degrees, enhancement=95355077907925968.00
+False positive, too many nans
+Error: Scene too busy: 20.2% > 20% above global threshold.
+   label  centroid_lat  centroid_lon  distance   enhancement   mean_signal       snr  size
+2      3     28.510878    -80.671005  0.140538  8.786187e+17  5.525904e+15  6.537131   159
+5      6     28.595329    -80.442009  0.167082  7.750243e+16  5.166829e+15  6.112346    15
+Error: Ambiguous scene: Multiple (2) plume candidates after gates and filtering.
+No plume detected
+Processing 2024-07-08 23:30:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-07-16 19:01:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: Ambiguous scene: No plume candidates after gates and filtering.
+No plume detected
+Processing 2024-07-30 10:45:00
+No data
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-08-04 15:02:53
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.6680665049102004
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+No plume detected
+Processing 2024-08-29 13:07:11
+No data
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-08-31 00:00:00
+no time
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-09-03 19:21:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.176434126093889
+No data
+No plume detected
+Processing 2024-09-05 15:33:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.2110149143462134
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-09-20 13:50:00
+No data
+No data
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-09-28 17:17:20
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-09-28 18:00:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-10-01 13:09:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-10-04 11:25:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.258842746269151
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.617576359628614
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.611943991926261
+No plume detected
+Processing 2024-10-07 14:52:00
+Error: No plumes detected within the bounding box.
+Error: ROI has no finite data.
+No data
+No plume detected
+Processing 2024-10-13 12:25:00
+No data
+Detected plume: with SNR=6.95, distance=0.19 degrees, enhancement=351580808921729920.00
+Detected plume: with SNR=7.65, distance=0.21 degrees, enhancement=150534144373730368.00
+Processing 2024-10-14 16:06:00
+Detected plume: with SNR=7.22, distance=0.21 degrees, enhancement=437673339211299584.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.490543951613842
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.801361535308182
+Processing 2024-10-18 23:31:00
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2024-10-20 18:24:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.65878245259741
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.292443930192983
+No plume detected
+Processing 2024-10-23 15:25:38
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2024-10-23 21:47:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-10-24 17:14:00
+Detected plume: with SNR=5.96, distance=0.14 degrees, enhancement=104440685401848960.00
+Detected plume: with SNR=5.69, distance=0.28 degrees, enhancement=41548416511386200.00
+Detected plume: with SNR=6.37, distance=0.29 degrees, enhancement=48047084117180304.00
+Processing 2024-10-24 23:10:00
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2024-10-30 12:07:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-10-30 21:10:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-11-07 17:00:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.5515659156226036
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.712625060032909
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-11-07 17:00:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.5515659156226036
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.712625060032909
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-11-07 20:19:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.634780158617815
+No data
+No data
+No plume detected
+Processing 2024-11-11 17:22:00
+Detected plume: with SNR=5.89, distance=0.05 degrees, enhancement=147324645578886144.00
+Detected plume: with SNR=6.79, distance=0.17 degrees, enhancement=176704278716679776.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.926596005772851
+Processing 2024-11-11 21:28:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-11-14 13:21:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=6.00, distance=0.20 degrees, enhancement=75349537544071552.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2024-11-17 22:28:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2024-11-18 18:31:00
+Error: ROI has no finite data.
+Error: ROI has no finite data.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2024-11-21 16:07:50
+Detected plume: with SNR=5.98, distance=0.14 degrees, enhancement=210110998435363968.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.33218338896082
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.154714882550842
+Processing 2024-11-22 15:30:09
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2024-12-05 16:10:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.591977054903325
+Error: Scene too busy: 21.0% > 20% above global threshold.
+Detected plume: with SNR=6.51, distance=0.09 degrees, enhancement=1017461322128613376.00
+Processing 2024-12-12 16:30:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=5.69, distance=0.16 degrees, enhancement=38867958772999856.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2024-12-13 21:55:40
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.433952672780986
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.126394494618415
+No data
+No plume detected
+Processing 2024-12-17 13:19:00
+No data
+No data
+No data
+No plume detected
+Processing 2024-12-17 22:26:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2025-01-06 20:43:59
+Detected plume: with SNR=6.28, distance=0.25 degrees, enhancement=77738520503365840.00
+False positive, too many nans
+No data
+No data
+No plume detected
+Processing 2025-01-08 15:27:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.967760695061691
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-01-10 19:11:20
+Detected plume: with SNR=5.95, distance=0.31 degrees, enhancement=43758400157869880.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+Processing 2025-01-13 16:47:09
+Error: ROI has no finite data.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-01-14 19:09:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.809077451873067
+Detected plume: with SNR=5.62, distance=0.14 degrees, enhancement=28255220323471664.00
+No data
+Processing 2025-01-16 22:37:00
+No data
+No data
+No data
+No plume detected
+Processing 2025-01-21 15:45:50
+No data
+Detected plume: with SNR=6.26, distance=0.03 degrees, enhancement=343534313813004224.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.362213057725214
+Processing 2025-01-24 14:07:00
+No data
+No data
+No data
+No plume detected
+Processing 2025-01-27 22:05:00
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2025-02-01 23:02:10
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.017448600237659
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2025-02-04 16:00:07
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2025-02-08 19:18:30
+Detected plume: with SNR=7.13, distance=0.16 degrees, enhancement=161776983951934240.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.352717713942015
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2025-02-11 18:53:20
+Detected plume: with SNR=8.97, distance=0.15 degrees, enhancement=110543207978144240.00
+False positive, too many nans
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data
+No plume detected
+Processing 2025-02-21 15:19:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-02-25 15:49:18
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-03-06 23:30:31
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2025-03-14 23:03:48
+No data
+No data
+No data for 3 hours after launch
+No plume detected
+Processing 2025-03-18 19:57:50
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.767871085180256
+Detected plume: with SNR=6.59, distance=0.12 degrees, enhancement=156766614892477888.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.698568244620597
+Processing 2025-03-24 17:48:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.809885708039521
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.447893736734698
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 2.804759220634231
+No plume detected
+Processing 2025-03-25 11:52:00
+No data
+No data
+No data
+No plume detected
+Processing 2025-03-25 12:30:00
+No data
+No data
+No data
+No plume detected
+Processing 2025-03-26 22:11:40
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.980812242814014
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.126357432440484
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-03-31 19:52:50
+   label  centroid_lat  centroid_lon  distance   enhancement   mean_signal       snr  size
+4      5     28.599998    -80.623322  0.162917  1.085779e+17  6.032108e+15  7.589828    18
+6      7     28.686251    -80.718750  0.288342  9.946008e+16  6.216255e+15  7.821529    16
+Error: Ambiguous scene: Multiple (2) plume candidates after gates and filtering.
+Detected plume: with SNR=6.51, distance=0.20 degrees, enhancement=320414003036880832.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.269086420568872
+Processing 2025-04-07 23:06:10
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data for 3 hours after launch
+No plume detected
+Processing 2025-04-12 12:25:00
+No data
+No data
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-04-13 00:53:30
+no time
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2025-04-14 13:30:07
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes detected within the bounding box.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-04-16 19:33:00
+Detected plume: with SNR=5.81, distance=0.20 degrees, enhancement=119250732340464224.00
+False positive, too many nans
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.30540636200613
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.307733468274128
+No plume detected
+Processing 2025-04-20 12:29:00
+No data
+No data
+No data
+No plume detected
+Processing 2025-04-22 00:48:34
+no time
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2025-04-25 12:05:20
+Error: No plumes detected within the bounding box.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-04-28 20:42:20
+   label  centroid_lat  centroid_lon  distance   enhancement   mean_signal       snr  size
+0      1     34.417061   -120.617058  0.213056  4.860454e+16  2.859091e+15  6.328564    17
+2      3     34.584690   -120.559204  0.068068  3.097987e+17  2.741581e+15  6.068459   113
+Error: Ambiguous scene: Multiple (2) plume candidates after gates and filtering.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.4286476138767705
+Detected plume: with SNR=5.56, distance=0.06 degrees, enhancement=40211541371423728.00
+Processing 2025-04-28 23:01:00
+No data
+No data
+No data
+No plume detected
+Processing 2025-04-29 13:37:47
+No data
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.1054154736776445
+No plume detected
+Processing 2025-05-10 00:19:50
+no time
+Detected plume: with SNR=6.40, distance=0.13 degrees, enhancement=244576854616968704.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.97474677802165
+No data for 3 hours after launch
+Processing 2025-05-14 16:38:50
+Detected plume: with SNR=6.20, distance=0.13 degrees, enhancement=67397164061549520.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.826035156271446
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2025-05-16 13:43:50
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2025-05-23 22:32:20
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.4762013989468095
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.279766211668689
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-05-24 17:19:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.366886901291435
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 2.720425865445619
+No data for 3 hours after launch
+No plume detected
+Processing 2025-05-27 16:57:15
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.1638957414266025
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-05-27 23:36:29
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=9.71, distance=0.04 degrees, enhancement=676089392296350720.00
+No data
+Processing 2025-05-28 13:30:00
+Detected plume: with SNR=6.95, distance=0.07 degrees, enhancement=82340714154132528.00
+Detected plume: with SNR=6.34, distance=0.21 degrees, enhancement=56234414414257632.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2025-05-30 17:37:59
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.479903789440808
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.312722873178611
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-05-31 13:39:18
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-05-31 20:10:00
+No data
+No data
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-06-04 23:40:30
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=6.81, distance=0.17 degrees, enhancement=81130834211224736.00
+False positive, too many nans
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-06-08 14:20:10
+Error: ROI has no finite data.
+Error: ROI has no finite data.
+Error: ROI has no finite data.
+No plume detected
+Processing 2025-06-10 13:05:40
+Detected plume: with SNR=8.01, distance=0.19 degrees, enhancement=97090507142762256.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=8.01, distance=0.19 degrees, enhancement=145173444845878752.00
+Processing 2025-06-13 01:54:50
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2025-06-13 13:00:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.206842446049276
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.706114081995796
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.760945956424886
+No plume detected
+Processing 2025-06-13 15:29:00
+Detected plume: with SNR=6.45, distance=0.28 degrees, enhancement=62061857063066200.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2025-06-23 10:54:30
+No data
+Error: Ambiguous scene: No plume candidates after gates and filtering.
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.8767215842823335
+No plume detected
+Processing 2025-06-23 21:25:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes detected within the bounding box.
+Error: No plumes detected within the bounding box.
+No plume detected
+Processing 2025-06-25 19:54:50
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=8.30, distance=0.17 degrees, enhancement=320912202953760256.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2025-06-29 14:40:03
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.459243296681828
+No plume detected
+Processing 2025-07-18 19:00:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.461799468202607
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 3.957360593945351
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-07-23 18:13:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.1606343416854
+Detected plume: with SNR=6.86, distance=0.30 degrees, enhancement=35938991909805124.00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Processing 2025-07-24 01:30:00
+No data
+No data for 2 hours after launch
+No data for 3 hours after launch
+No plume detected
+Processing 2025-08-11 12:35:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.098030076537921
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.089956424149088
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-08-12 10:00:00
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.520294095868166
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-08-13 00:56:00
+no time
+No data
+No data
+No data
+No plume detected
+Processing 2025-08-14 12:29:30
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=5.70, distance=0.07 degrees, enhancement=974182552019695360.00
+Detected plume: with SNR=5.87, distance=0.12 degrees, enhancement=302657291857674432.00
+Processing 2025-08-18 16:26:49
+No data
+No data
+No data
+No plume detected
+Processing 2025-08-22 17:04:49
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.071020630830342
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-08-26 18:53:41
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.999407551779541
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.44718264375395
+Detected plume: with SNR=5.60, distance=0.24 degrees, enhancement=39619283552249320.00
+Processing 2025-08-26 23:30:03
+Detected plume: with SNR=8.43, distance=0.08 degrees, enhancement=650052637165250560.00
+No data
+No data
+Processing 2025-08-27 11:10:40
+Detected plume: with SNR=5.70, distance=0.07 degrees, enhancement=534672868556662144.00
+Detected plume: with SNR=6.30, distance=0.13 degrees, enhancement=65999934207730176.00
+Detected plume: with SNR=5.90, distance=0.18 degrees, enhancement=40343187422620168.00
+False positive, plume too small
+Processing 2025-08-31 11:49:00
+Detected plume: with SNR=7.19, distance=0.11 degrees, enhancement=98747645459525344.00
+Detected plume: with SNR=6.50, distance=0.22 degrees, enhancement=69695217592398632.00
+Error: Ambiguous scene: No plume candidates after gates and filtering.
+Processing 2025-09-03 11:56:10
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+No plume detected
+Processing 2025-09-05 12:32:30
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Detected plume: with SNR=5.76, distance=0.14 degrees, enhancement=51639623992157648.00
+Detected plume: with SNR=6.13, distance=0.21 degrees, enhancement=108037427152398640.00
+Processing 2025-09-06 18:06:40
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.428189122649796
+Detected plume: with SNR=6.46, distance=0.17 degrees, enhancement=140026628997695424.00
+Processing 2025-09-10 14:12:10
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 5.169243063257065
+No plume detected
+Processing 2025-09-13 17:55:49
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: nan
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.733983125045406
+Error: No plumes met the SNR threshold of 5.5 and distance criteria. Highest SNR: 4.307784444701608
+No plume detected
+Processing 2025-09-14 22:11:49
+Detected plume: with SNR=6.83, distance=0.11 degrees, enhancement=75432622412413664.00
+No data
+No data
