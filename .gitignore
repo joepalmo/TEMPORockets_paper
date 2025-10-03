@@ -1,0 +1,68 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.dylib
+
+# Virtual environments
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Jupyter/IPython
+.ipynb_checkpoints
+# *.ipynb~
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Large scientific data formats
+*.nc
+*.h5
+*.hdf
+*.grib
+*.grb
+*.tif
+*.tiff
+*.csv.gz
+*.zip
+*.tar.gz
+
+# Model outputs / checkpoints
+*.ckpt
+*.pth
+*.pt
+*.joblib
+
+# Figures (optional, if you regenerate them)
+# *.pdf
+# *.png
+# *.jpg
+# *.jpeg
+# *.svg
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# HPC / SLURM artifacts
+slurm-*.out
+*.o[0-9]*
+*.e[0-9]*
+
+# Build artifacts
+build/
+dist/
+*.out
+*.exe
+
+# Poetry/Conda lock
+poetry.lock
+environment.yml
