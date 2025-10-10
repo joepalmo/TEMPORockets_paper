@@ -33,7 +33,8 @@ from xarray.backends import BackendEntrypoint
 # python make_animation.py --obs "NO2" --start "2025-03-29" --end "2025-04-01" --bounding_box "(-82.14,27.7,-79.35,29.2)" --output "/home/jpalmo/fs09/Projects/TEMPO_rocket_launches/paper_final/false_positives/20250331"
 # python make_animation.py --obs "NO2" --start "2025-06-09" --end "2025-06-11" --bounding_box "(-82.14,27.7,-79.35,29.2)" --output "/home/jpalmo/fs09/Projects/TEMPO_rocket_launches/paper_final/false_positives/20250610"
 # python make_animation.py --obs "NO2" --start "2024-11-10" --end "2024-11-12" --bounding_box "(-82.14,27.7,-79.35,29.2)" --output "/home/jpalmo/fs09/Projects/TEMPO_rocket_launches/paper_final/false_positives/20241111"
-
+# python make_animation.py --obs "NO2" --start "2024-12-04" --end "2024-12-06" --bounding_box "(-82.14,27.7,-79.35,29.2)" --output "/home/jpalmo/fs09/Projects/TEMPO_rocket_launches/paper_final/false_positives/20241205"
+# python make_animation.py --obs "NO2" --start "2025-08-13" --end "2025-08-15" --bounding_box "(-82.14,27.7,-79.35,29.2)" --output "/home/jpalmo/fs09/Projects/TEMPO_rocket_launches/paper_final/false_positives/20250814"
 
 ### PARSE ARGS
 

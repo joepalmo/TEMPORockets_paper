@@ -105,16 +105,20 @@ detections_df['time_delta_min'] = detections_df['L2_time_delta'].astype('timedel
 # For points where time_delta_min > 60, I want to keep detections where SNR >= 5.5
 detections_df = detections_df[
     ((detections_df['SNR'] >= 6)) |
-    ((detections_df['size'] > 100) & (detections_df['SNR'] >= 5.6) & (detections_df['ime']<9000)) |
+    # ((detections_df['size'] > 100) & (detections_df['SNR'] >= 5.6) & (detections_df['ime']<9000)) |
     ((detections_df['time_delta_min'] >= 60) & (detections_df['SNR'] >= 5.5) & detections_df['LV_Type'].eq('Falcon 9'))
 ]
 detections_df = detections_df[detections_df['size']>10]
 # remove false positives
+false_pos_1 = pd.Timestamp("2024-12-05")
 false_pos_2 = pd.Timestamp("2025-03-31")
+false_pos_3 = pd.Timestamp("2025-08-14")
 false_pos_4 = pd.Timestamp("2025-06-10 15")
 false_pos_5 = pd.Timestamp("2024-11-11 18")
 # Remove rows that occurred on those days
+detections_df = detections_df[detections_df["timestamp"].dt.date != false_pos_1.date()]
 detections_df = detections_df[detections_df["timestamp"].dt.date != false_pos_2.date()]
+detections_df = detections_df[detections_df["timestamp"].dt.date != false_pos_3.date()]
 detections_df = detections_df[detections_df["obs_time"].dt.floor('H') != false_pos_4]
 detections_df = detections_df[detections_df["obs_time"].dt.floor('H') != false_pos_5]
 
@@ -127,16 +131,15 @@ merged_detections_df = detections_df.drop_duplicates(subset='Launch_JD', keep='f
     how='left'
 )
 # only show detections with SNR > 6
-merged_detections_df = merged_detections_df[(merged_detections_df['SNR'] > 6) | ((merged_detections_df['size'] > 100) & (merged_detections_df['SNR'] > 5.6))]
-merged_detections_df = merged_detections_df[merged_detections_df['ime'] < 9000]
+merged_detections_df = merged_detections_df[(merged_detections_df['SNR'] > 6)]
 merged_detections_df = merged_detections_df[merged_detections_df['size'] > 10]
 initial_detections_df = merged_detections_df.drop_duplicates(subset='Launch_JD', keep='first')
 # Calculate scaled NO₂ at t=0, if time_delta_min > 0
-tau = 2.31  # lifetime in hours
+tau = 1.97  # lifetime in hours -- this is calculated in figure_S4.ipynb
 initial_detections_df['ppf'] = np.exp(initial_detections_df['time_delta_min'] / 60 / tau)
 initial_detections_df.loc[initial_detections_df['time_delta_min'] > 0, 'no2_at_t0'] = initial_detections_df['enhancement_molno2'] * initial_detections_df['ppf']
 initial_detections_df.loc[initial_detections_df['time_delta_min'] > 0, 'ime_at_t0'] = initial_detections_df['ime'] * initial_detections_df['ppf']
-initial_detections_df = initial_detections_df[initial_detections_df['time_delta_min'] > 0]
+initial_detections_df = initial_detections_df[initial_detections_df['time_delta_min'] > 5]
 
 
 # save data -- detections_df, initial_detections_df
