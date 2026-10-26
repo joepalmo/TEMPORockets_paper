@@ -53,7 +53,7 @@ df.index = pd.DatetimeIndex(df.index)
 df.sort_index(inplace=True)
 
 # only launches during TEMPO mission
-recent_df = df.loc['2026-01-01':]
+recent_df = df.loc['2023-08-01':'2026-03-10']
 
 # given the Launch_Site, find the corresponding lat and lon
 def get_lat(site):

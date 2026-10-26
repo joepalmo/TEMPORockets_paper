@@ -21,6 +21,8 @@ setup(
         "pyproj",
         "shapely",
         "requests",
+        "earthaccess",
+        "imageio",
         "dask",
         "distributed",
         "dask-jobqueue",

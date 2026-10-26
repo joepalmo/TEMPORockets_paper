@@ -12,9 +12,9 @@ warnings.filterwarnings("ignore")
 
 ### Some key datasets
 # load GEOS pressure levels
-pressure_levels_df = pd.read_csv("/home/jpalmo/fs09/Projects/TEMPO_apriori/code/geos_pressure_levels.csv")
+pressure_levels_df = pd.read_csv("data/geos_pressure_levels.csv")
 # fuel burn from Cassandre paper, NOx EFs from NAS paper
-emis_profile_df = pd.read_csv("/home/jpalmo/fs09/Projects/TEMPO_rocket_launches/F9 mass-layer emissions.csv")
+emis_profile_df = pd.read_csv("data/Falcon9-traj-emissions.csv")
 emis_profile_df['pressure'] = pressure_levels_df['P(hPa)'].values[::-1]
 # troposphere only 100 hPa cutoff
 trop_emis_profile = emis_profile_df[emis_profile_df['pressure']>=100]

@@ -69,9 +69,9 @@ def get_lon(site, pad):
 
 # check if files were downloaded for specific launch
 def check_files(launch):
-    files = glob.glob(f'/home/jpalmo/fs09/Datasets/TEMPO/L3/NO2/TEMPO_NO2_L3_V03*{launch}*')
-    # return len(files) > 0
-    return True
+    files = glob.glob(f'/home/jpalmo/fs09/Datasets/TEMPO/V04/L2/NO2/*{launch}*')
+    files += glob.glob(f'/home/jpalmo/fs09/Datasets/TEMPO/V03/L2/NO2/*{launch}*')
+    return len(files) > 0
 
 #### DATA CLEANING
 

@@ -114,8 +114,44 @@ class TEMPOBackendEntrypoint_L2(BackendEntrypoint):
             vcd_strat = file_id["product"]["vertical_column_stratosphere"][:].filled(np.nan)
             vcd_trop_uncertainty = file_id["product"]["vertical_column_troposphere_uncertainty"][:].filled(np.nan)
 
-            # cloud fraction
+            # viewing geometry
+            solar_zenith_angle = file_id["geolocation"]["solar_zenith_angle"][:].filled(np.nan)
+            viewing_zenith_angle = file_id["geolocation"]["viewing_zenith_angle"][:].filled(np.nan)
+            
+            albedo = file_id.groups["support_data"]["albedo"][:].filled(np.nan)
+            ps = file_id["support_data"]["surface_pressure"][:].filled(np.nan)
+
+            temperature_profile = file_id.groups["support_data"]["temperature_profile"][:].filled(np.nan)
+            temperature_profile = np.flip(temperature_profile, axis=2)
+
+            eta_a = file_id["support_data"]["surface_pressure"].Eta_A[:]
+            eta_b = file_id["support_data"]["surface_pressure"].Eta_B[:]
+            p_edge = eta_a[:, None, None] + eta_b[:, None, None] * ps[None, :, :]
+            p_mid = 0.5 * (p_edge[:-1] + p_edge[1:])
+            p_mid = np.transpose(p_mid, (1, 2, 0))
+            p_mid = np.flip(p_mid, axis=2)
+
+            scattering_weights = file_id.groups["support_data"]["scattering_weights"][:].filled(np.nan)
+            scattering_weights = np.flip(scattering_weights, axis=2)
+            gas_profile = file_id.groups["support_data"]["gas_profile"][:].filled(np.nan)
+            gas_profile = np.flip(gas_profile, axis=2)
+
+            support_data = file_id.groups["support_data"]
+            if "scattering_weights_clear_sky" in support_data.variables:
+                scattering_weights_clear_sky = support_data["scattering_weights_clear_sky"][:].filled(np.nan)
+                scattering_weights_clear_sky = np.flip(scattering_weights_clear_sky, axis=2)
+                amf_trop_clear_sky = support_data["amf_troposphere_clear_sky"][:].filled(np.nan)
+            else:
+                scattering_weights_clear_sky = np.full_like(scattering_weights, np.nan)
+                amf_trop_clear_sky = np.full(lat_2d.shape, np.nan)
+
+            amf_total = file_id.groups["support_data"]["amf_total"][:].filled(np.nan)
+            amf_trop = file_id.groups["support_data"]["amf_troposphere"][:].filled(np.nan)
+            amf_strat = file_id.groups["support_data"]["amf_stratosphere"][:].filled(np.nan)
+            tropopause_pressure = file_id.groups["support_data"]["tropopause_pressure"][:].filled(np.nan)
+            slant_column = file_id.groups["support_data"]["fitted_slant_column"][:].filled(np.nan)
             cloud_fraction = file_id["support_data"]["eff_cloud_fraction"][:].filled(np.nan)
+            cloud_pressure = file_id["support_data"]["amf_cloud_pressure"][:].filled(np.nan)
 
         ny, nx = lat_2d.shape
         corner = np.arange(4)
@@ -129,12 +165,29 @@ class TEMPOBackendEntrypoint_L2(BackendEntrypoint):
                 "vertical_column_stratosphere": (("y", "x"), vcd_strat),
                 "vertical_column_troposphere_uncertainty": (("y", "x"), vcd_trop_uncertainty),
                 "eff_cloud_fraction": (("y", "x"), cloud_fraction),
+                "solar_zenith_angle": (("y", "x"), solar_zenith_angle),
+                "viewing_zenith_angle": (("y", "x"), viewing_zenith_angle),
+                "albedo": (("y", "x"), albedo),
+                "scattering_weights": (("y", "x", "lev"), scattering_weights),
+                "scattering_weights_clear_sky": (("y", "x", "lev"), scattering_weights_clear_sky),
+                "gas_profile": (("y", "x", "lev"), gas_profile),
+                "surface_pressure": (("y", "x"), ps),
+                "amf_total": (("y", "x"), amf_total),
+                "amf_troposphere": (("y", "x"), amf_trop),
+                "amf_troposphere_clear_sky": (("y", "x"), amf_trop_clear_sky),
+                "amf_stratosphere": (("y", "x"), amf_strat),
+                "tropopause_pressure": (("y", "x"), tropopause_pressure),
+                "slant_column": (("y", "x"), slant_column),
+                "pressure_levels": (("y", "x", "lev"), p_mid),
+                "temperature_profile": (("y", "x", "lev"), temperature_profile),
+                "cloud_pressure": (("y", "x"), cloud_pressure),
             },
             coords={
                 "y": np.arange(ny),
                 "x": np.arange(nx),
                 "latitude": (("y", "x"), lat_2d),
                 "longitude": (("y", "x"), lon_2d),
+                "lev": np.arange(1, 73, 1),
                 "corner": corner,
                 "time": t0,
             },

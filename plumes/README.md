@@ -1,15 +1,14 @@
 # Plume detection outputs
 
-This directory is intentionally empty in the submission bundle.
+This directory contains the detection run used in the paper:
 
-Populate it by running:
+- `detections.csv`
+- `*.nc` (one file per detected plume hour)
+- `figs/detections/`, `figs/nondetections/`
+
+Re-running the detection step overwrites these files:
 
 ```bash
 python compute_emissions.py
 # or: sbatch compute_emissions.sh
 ```
-
-Expected contents after a successful run:
-- `detections.csv`
-- `*.nc` (one file per detected plume hour)
-- `figs/detections/`, `figs/nondetections/`

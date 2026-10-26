@@ -278,7 +278,7 @@ def load_tempo_data(time, lat, lon):
 
     return ds
 
-def calculate_emissions(tempo_df, geoscf_ds, time, lat, lon, figs=False, background_pct=0.05, plume_pct=0.9, outpath="/home/jpalmo/fs09/Projects/TEMPO_rocket_launches/plumes"):
+def calculate_emissions(tempo_df, geoscf_ds, time, lat, lon, figs=False, background_pct=0.05, plume_pct=0.9, outpath="plumes"):
     """
     def calculate_emissions(time, lat, lon):
         Calculate emissions based on the given time and location.
